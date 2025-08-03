@@ -16,6 +16,11 @@
 ---
 
 ### 📌 Projects
+
+### 📌 Projects
+
+- **[Hand Gesture Volume Control](https://github.com/MhdAnsil/hand-gesture-volume-control)**  
+  Control volume and brightness using real-time hand gestures via webcam using OpenCV + MediaPipe.
 - *Solid Waste Management using ML*  
   Machine learning solution to improve waste segregation and recycling processes. (Repo coming soon)
 
